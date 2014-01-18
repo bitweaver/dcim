@@ -25,3 +25,24 @@
 [submodule "install"]
 	path = install
 	url = git@github.com:bitweaver/install.git
+[submodule "config/themes/bootstrap"]
+	path = config/themes/bootstrap
+	url = git@github.com:bitweaver/theme_bootstrap.git
+[submodule "config/externals/adodb"]
+	path = config/externals/adodb
+	url = git@github.com:bitweaver/adodb.git
+[submodule "inventory"]
+	path = inventory
+	url = git@github.com:bitweaver/meta.git
+[submodule "feed"]
+	path = feed
+	url = git@github.com:bitweaver/feed.git
+[submodule "photos"]
+	path = photos
+	url = git@github.com:bitweaver/fisheye.git
+[submodule "cryptifier"]
+	path = cryptifier
+	url = git@github.com:bitweaver/cryptifier.git
+[submodule "search"]
+	path = search
+	url = git@github.com:bitweaver/ilike.git
