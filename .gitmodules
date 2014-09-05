@@ -46,3 +46,6 @@
 [submodule "search"]
 	path = search
 	url = git@github.com:bitweaver/ilike.git
+[submodule "config/externals/smarty"]
+	path = config/externals/smarty
+	url = https://github.com/bitweaver/smarty.git
